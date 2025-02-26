@@ -1,0 +1,5 @@
+failed/
+output/
+try/
+*.o
+compile.sh
